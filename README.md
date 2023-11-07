@@ -33,7 +33,9 @@ The "Leetcode Problem Counter" is a Chrome extension that allows you to count th
 
 ## Screenshots
 
-![Popup](/images/popup.png)
+![image](https://github.com/ayushichoudhary-19/LeetcodeProblemCounter/assets/73214455/0b253995-6f29-4c5c-b7c4-261be5f04243)
+![image](https://github.com/ayushichoudhary-19/LeetcodeProblemCounter/assets/73214455/690845ff-ec2e-4f18-aa8f-a2c766f7c3e6)
+
 
 ## License
 

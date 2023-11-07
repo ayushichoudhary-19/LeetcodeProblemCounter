@@ -14,7 +14,7 @@ p {
 }
 button {
     margin-top: 10px;
-    background-color: rgb(255, 246, 144);
+    background-color: rgb(255,161,22);
     border-radius: 0.5em;
     padding: 3% 2%;
     border: none;
@@ -23,4 +23,11 @@ button {
 }
 button:hover {
    box-shadow: -1px 2px 2px rgba(152, 152, 152, 0.313);
-}   
+   cursor: pointer;
+   font-weight: 500;
+}  
+#count{
+    font-size: large;
+    color:  rgb(255,161,22);
+    font-weight: bold;
+} 
